@@ -1,7 +1,7 @@
 #
-class techyfriday_role::initial::initial {
+class siebers_role::initial::initial {
 
-  include '::techyfriday_profile::general'
-  include '::techyfriday_profile::initial::initial'
+  include '::siebers_profile::general'
+  include '::siebers_profile::initial::initial'
 
 }

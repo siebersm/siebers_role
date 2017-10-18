@@ -1,6 +1,6 @@
 #
-class techyfriday_role::demo::puppetmaster {
+class siebers_role::demo::puppetmaster {
 
-  include '::techyfriday_profile::demo::puppetmaster'
+  include '::siebers_profile::demo::puppetmaster'
 
 }

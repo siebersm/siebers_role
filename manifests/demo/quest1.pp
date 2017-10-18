@@ -1,6 +1,6 @@
 #
-class techyfriday_role::demo::quest1 {
+class siebers_role::demo::quest1 {
 
-  include '::techyfriday_profile::demo::quest1'
-  include '::techyfriday_profile::general'
+  include '::siebers_profile::demo::quest1'
+  include '::siebers_profile::general'
 }
